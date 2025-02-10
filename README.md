@@ -7,4 +7,4 @@ Hoya自用OpenClash规则集说明
 
 3#ProxyLite：常见代理网站补充
 
-4#Hoya-Rule规则集:略,详见内容
+4#Hoya-Rule:略,详见内容,必须使用raw源码地址！！！
