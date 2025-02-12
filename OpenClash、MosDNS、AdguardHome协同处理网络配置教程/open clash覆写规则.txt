@@ -1,0 +1,214 @@
+纯域名
+apple.com
+qingwapt.org
+qingwapt.com
+qingwapt.pro
+qingwa.pro
+wawawa.me
+ubits.club
+ourbits.club
+ourhelp.club
+rousi.zip
+m-team.io
+m-team.cc
+hdfans.org
+soulvoice.club
+agsvpt.com
+agsv.top
+pttime.org
+hhan.club
+trackers.work
+hhanclub.top
+trackerfile.com
+ptsbao.club
+ptsbao.club
+hdkyl.in
+hdkylin.com
+ilolicon.cc
+ilolicon.com
+zhuque.in
+springsunday.net
+nicept.net
+nextpt.net
+connects.icu
+hdvideo.one
+btschool.club
+btschool.net
+cdfile.org
+ptlover.cc
+
+##PT站点--青蛙
+- DOMAIN-SUFFIX,qingwapt.org,DIRECT
+- DOMAIN-SUFFIX,qingwapt.com,DIRECT
+- DOMAIN-SUFFIX,qingwapt.pro,DIRECT
+- DOMAIN-SUFFIX,qingwa.pro,DIRECT
+- DOMAIN-SUFFIX,wawawa.me,DIRECT
+##PT站点--Ubits
+- DOMAIN-SUFFIX,ubits.club,DIRECT
+##PT站点--我堡
+- DOMAIN-SUFFIX,ourbits.club,DIRECT
+- DOMAIN-SUFFIX,ourhelp.club,DIRECT
+##PT站点--肉丝
+- DOMAIN-SUFFIX,rousi.zip,DIRECT
+##PT站点--馒头
+- DOMAIN-SUFFIX,m-team.io,DIRECT
+- DOMAIN-SUFFIX,m-team.cc,DIRECT
+##PT站点--红豆饭
+- DOMAIN-SUFFIX,hdfans.org,DIRECT
+##PT站点--铃音
+- DOMAIN-SUFFIX,soulvoice.club,DIRECT
+##PT站点--末日
+- DOMAIN-SUFFIX,agsvpt.com,DIRECT
+- DOMAIN-SUFFIX,agsv.top,DIRECT
+##PT站点--PT时间
+- DOMAIN-SUFFIX,pttime.org,DIRECT
+##PT站点--憨憨
+- DOMAIN-SUFFIX,hhan.club,DIRECT
+- DOMAIN-SUFFIX,trackers.work,DIRECT
+- DOMAIN-SUFFIX,hhanclub.top,DIRECT
+- DOMAIN-SUFFIX,trackerfile.com,DIRECT
+##PT站点--烧包
+- DOMAIN-SUFFIX,ptsbao.club,DIRECT
+- DOMAIN-SUFFIX,ptsbao.club,DIRECT
+##PT站点--麒麟
+- DOMAIN-SUFFIX,hdkyl.in,DIRECT
+- DOMAIN-SUFFIX,hdkylin.com,DIRECT
+##PT站点--爱萝莉
+- DOMAIN-SUFFIX,ilolicon.cc,DIRECT
+- DOMAIN-SUFFIX,ilolicon.com,DIRECT
+##PT站点--朱雀
+- DOMAIN-SUFFIX,zhuque.in,DIRECT
+##PT站点--春天
+- DOMAIN-SUFFIX,springsunday.net,DIRECT
+##PT站点--老师
+- DOMAIN-SUFFIX,nicept.net,DIRECT
+##PT站点--FSM
+- DOMAIN-SUFFIX,nextpt.net,DIRECT
+- DOMAIN-SUFFIX,connects.icu,DIRECT
+##PT站点--HDVideo
+- DOMAIN-SUFFIX,hdvideo.one,DIRECT
+##PT站点--学校
+- DOMAIN-SUFFIX,btschool.club,DIRECT
+- DOMAIN-SUFFIX,btschool.net,DIRECT
+##PT站点--蓝光
+- DOMAIN-SUFFIX,cdfile.org,DIRECT
+##PT站点--AFun
+- DOMAIN-SUFFIX,ptlover.cc,DIRECT
+##PT站点--未知
+- DOMAIN-SUFFIX,pterclub.com,DIRECT
+##华硕
+- DOMAIN-SUFFIX,asus.com,DIRECT
+##微软相关
+- DOMAIN-SUFFIX,hotmail.com,DIRECT
+- DOMAIN-SUFFIX,windows.com,DIRECT
+- DOMAIN-SUFFIX,outlook.com,DIRECT
+- DOMAIN-SUFFIX,bing.com,DIRECT
+- DOMAIN-SUFFIX,onedrive.com,DIRECT
+- DOMAIN-SUFFIX,live.com,DIRECT
+- DOMAIN-SUFFIX,msn.com,DIRECT
+- DOMAIN-SUFFIX,appcenter.ms,DIRECT
+- DOMAIN-SUFFIX,office.net,DIRECT
+- DOMAIN-SUFFIX,nelreports.net,DIRECT
+- DOMAIN-SUFFIX,virtualearth.net,DIRECT
+- DOMAIN-SUFFIX,bingapis.com,DIRECT
+- DOMAIN-SUFFIX,sfx.ms,DIRECT
+- DOMAIN-SUFFIX,microsoftapp.net,DIRECT
+- DOMAIN-SUFFIX,skype.com,DIRECT
+##SublimeText
+- DOMAIN-SUFFIX,sublimetext.com,DIRECT
+- DOMAIN-SUFFIX,sublimehq.com,DIRECT
+##域名相关
+- DOMAIN-SUFFIX,sun-panel.top,DIRECT
+- DOMAIN-SUFFIX,199462.xyz,DIRECT
+##已购梯子
+- DOMAIN-SUFFIX,sakura-cat1.com,DIRECT
+##苹果相关
+- DOMAIN-SUFFIX,apple.com,DIRECT
+- DOMAIN-SUFFIX,icloud.com,DIRECT
+- DOMAIN-SUFFIX,apple-dns.net,DIRECT
+##英伟达
+- DOMAIN-SUFFIX,nvidia.com,DIRECT
+- DOMAIN-SUFFIX,geforce.com,DIRECT
+- DOMAIN-SUFFIX,nvidiagrid.net,DIRECT
+##IPTV
+- DOMAIN-SUFFIX,meowtv.vip,DIRECT
+- DOMAIN-SUFFIX,meowtv.top,DIRECT
+- DOMAIN-SUFFIX,v1.mk,DIRECT
+##瀚思彼岸
+- DOMAIN-SUFFIX,hassbian.com,DIRECT
+##Finalshell
+- DOMAIN-SUFFIX,hostbuf.com,DIRECT
+##423下载站
+- DOMAIN-SUFFIX,423down.com,DIRECT
+##赛睿
+- DOMAIN-SUFFIX,a-volute.com,DIRECT
+- DOMAIN-SUFFIX,steelseries.com,DIRECT
+##SSL数字证书颁发机构
+- DOMAIN-SUFFIX,digicert.com,DIRECT
+##网页图标
+- DOMAIN-SUFFIX,iconify.design,DIRECT
+##CDN分发下载
+- DOMAIN-SUFFIX,akamaized.net,DIRECT
+- DOMAIN-SUFFIX,azureedge.net,DIRECT
+##观影网址相关
+- DOMAIN-SUFFIX,gaoqing.la,DIRECT
+- DOMAIN-SUFFIX,domp4.cc,DIRECT
+- DOMAIN-SUFFIX,padmp4.com,DIRECT
+- DOMAIN-SUFFIX,dygang.tv,DIRECT
+- DOMAIN-SUFFIX,yinfans.me,DIRECT
+- DOMAIN-SUFFIX,breakvip.com,DIRECT
+- DOMAIN-SUFFIX,bugutv.org,DIRECT
+- DOMAIN-SUFFIX,ddmp4.cc,DIRECT
+- DOMAIN-SUFFIX,jsdelivr.net,DIRECT
+- DOMAIN-SUFFIX,z2pyw.com,DIRECT
+- DOMAIN-SUFFIX,y80s.tv,DIRECT
+- DOMAIN-SUFFIX,srtku.com,DIRECT
+- DOMAIN-SUFFIX,kufeiyu.com,DIRECT
+- DOMAIN-SUFFIX,xinlangtupian.com,DIRECT
+- DOMAIN-SUFFIX,imgikzy.com,DIRECT
+- DOMAIN-SUFFIX,hao6v.tv,DIRECT
+- DOMAIN-SUFFIX,66tutup.com,DIRECT
+- DOMAIN-SUFFIX,66hao.cc,DIRECT
+- DOMAIN-SUFFIX,haibao123.xyz,DIRECT
+- DOMAIN-SUFFIX,diygod.dev,DIRECT
+- DOMAIN-SUFFIX,shields.io,DIRECT
+- DOMAIN-SUFFIX,ddzimu.com,DIRECT
+- DOMAIN-SUFFIX,ffh7y.com,DIRECT
+- DOMAIN-SUFFIX,sectigo.com,DIRECT
+- DOMAIN-SUFFIX,wangfei.tv,DIRECT
+- DOMAIN-SUFFIX,wangfei1.cc,DIRECT
+- DOMAIN-SUFFIX,naifeitv.xyz,DIRECT
+- DOMAIN-SUFFIX,tegouys.com,DIRECT
+- DOMAIN-SUFFIX,lencr.org,DIRECT
+- DOMAIN-SUFFIX,postimg.cc,DIRECT
+- DOMAIN-SUFFIX,souyisou.top,DIRECT
+- DOMAIN-SUFFIX,ijujitv.cc,DIRECT
+##AdguardHome相关
+- DOMAIN-SUFFIX,adtidy.org,DIRECT
+##ubunt相关
+- DOMAIN-SUFFIX,ubuntu.com,DIRECT
+##博客&论坛
+- DOMAIN-SUFFIX,conveniencespace.com,DIRECT
+- DOMAIN-SUFFIX,gebi1.com,DIRECT
+- DOMAIN-SUFFIX,zhoujie218.top,DIRECT
+- DOMAIN-SUFFIX,wandhi.com,DIRECT
+- DOMAIN-SUFFIX,bgegao.com,DIRECT
+- DOMAIN-SUFFIX,imaegoo.com,DIRECT
+##Adobe相关
+- DOMAIN-SUFFIX,adobedtm.com,DIRECT
+- DOMAIN-SUFFIX,adobe.io,DIRECT
+- DOMAIN-SUFFIX,adobe.com,DIRECT
+##兔兔图床
+- DOMAIN-SUFFIX,tutu.to,DIRECT
+##DTS音效
+- DOMAIN-SUFFIX,xperi.com,DIRECT
+##网站广告
+- DOMAIN-SUFFIX,visualwebsiteoptimizer.com,REJECT
+##不安全的网络分发网站
+- DOMAIN-SUFFIX,iili.io,REJECT
+##其他未知
+- DOMAIN-SUFFIX,112114.xyz,DIRECT
+- DOMAIN-SUFFIX,tlover.cc,DIRECT
+- DOMAIN-SUFFIX,danteng.org,DIRECT
+- DOMAIN-SUFFIX,wingify.com,DIRECT
+- DOMAIN-SUFFIX,z4q834d.net,DIRECT
