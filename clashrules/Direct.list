@@ -131,7 +131,14 @@ DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,cdnlz22.com
 DOMAIN-SUFFIX,simplesvg.com
 DOMAIN-SUFFIX,adblockplus.org
-
+DOMAIN-SUFFIX,freeimage.host
+DOMAIN-SUFFIX,iili.io
+DOMAIN-SUFFIX,miji.bid
+DOMAIN-SUFFIX,miji.rip
+DOMAIN-SUFFIX,ctfassets.net
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,sentry.io
 
 # 360
 DOMAIN-SUFFIX,360.com
