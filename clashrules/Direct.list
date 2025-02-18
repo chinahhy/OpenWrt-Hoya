@@ -1,5 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # Mylist
+DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,mij.rip
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,gxnas.com
