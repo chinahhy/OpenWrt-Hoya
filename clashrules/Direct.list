@@ -1,5 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # Mylist
+IP-CIDR,173.194.174.109,no-resolve
 IP-CIDR,74.125.197.188/32,no-resolve
 DOMAIN-SUFFIX,netok.xyz
 DOMAIN-SUFFIX,gravatar.com
