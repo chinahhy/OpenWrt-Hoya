@@ -9,6 +9,10 @@ DOMAIN-SUFFIX,gdcucc.v1.mk
 # 飞牛OS
 DOMAIN-KEYWORD,fnnas
 
+# 火狐浏览器
+DOMAIN-KEYWORD,firefox
+DOMAIN-KEYWORD,mozilla
+
 # 梯子域名
 DOMAIN-SUFFIX,catcat321.com
 DOMAIN-SUFFIX,dokidokiweb.com
@@ -170,7 +174,6 @@ DOMAIN-SUFFIX,wandhi.com
 DOMAIN-SUFFIX,imaegoo.com
 DOMAIN-SUFFIX,tutu.to
 DOMAIN-SUFFIX,xperi.com
-DOMAIN-SUFFIX,112114.xyz
 DOMAIN-SUFFIX,danteng.org
 DOMAIN-SUFFIX,wingify.com
 DOMAIN-SUFFIX,z4q834d.net
@@ -181,6 +184,12 @@ DOMAIN-SUFFIX,cdnlz22.com
 DOMAIN-SUFFIX,jquery.com
 DOMAIN-SUFFIX,90dao.com
 DOMAIN-SUFFIX,uuu.ovh
+DOMAIN-SUFFIX,pipuwong.com
+DOMAIN-SUFFIX,lucky.gd
+DOMAIN-SUFFIX,pipu.studio
+DOMAIN-SUFFIX,90dao.com
+DOMAIN-SUFFIX,fundraiseup.com
+DOMAIN-SUFFIX,yandex.net
 
 # 图床
 DOMAIN-SUFFIX,img.xingtan.one
