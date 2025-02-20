@@ -177,6 +177,7 @@ DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,cdnlz22.com
 DOMAIN-SUFFIX,jquery.com
 DOMAIN-SUFFIX,90dao.com
+DOMAIN-SUFFIX,uuu.ovh
 
 # 图床
 DOMAIN-SUFFIX,img.xingtan.one
@@ -196,3 +197,4 @@ DOMAIN-SUFFIX,iili.io
 DOMAIN-SUFFIX,miji.bid
 DOMAIN-SUFFIX,miji.rip
 DOMAIN-SUFFIX,sda1.dev
+DOMAIN-SUFFIX,picgo.net
