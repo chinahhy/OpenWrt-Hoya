@@ -153,6 +153,7 @@ DOMAIN-SUFFIX,ijujitv.cc
 
 # 去广告
 DOMAIN-SUFFIX,adblockplus.org
+DOMAIN-SUFFIX,getadblock.com
 
 # 其它
 DOMAIN-SUFFIX,adtidy.org
