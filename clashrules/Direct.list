@@ -198,3 +198,15 @@ DOMAIN-SUFFIX,miji.bid
 DOMAIN-SUFFIX,miji.rip
 DOMAIN-SUFFIX,sda1.dev
 DOMAIN-SUFFIX,picgo.net
+
+# 游戏
+DOMAIN-KEYWORD,wegamex
+DOMAIN-KEYWORD,wegame
+
+# 图标库
+DOMAIN-SUFFIX,nn.ci
+DOMAIN-SUFFIX,hefamily.net
+DOMAIN-SUFFIX,tianli0.top
+DOMAIN-SUFFIX,ko-fi.com
+DOMAIN-SUFFIX,wpfast.org
+DOMAIN-SUFFIX,skillicons.dev
