@@ -8,10 +8,14 @@ DOMAIN-SUFFIX,gdcucc.v1.mk
 
 # 梯子域名
 DOMAIN-SUFFIX,catcat321.com
+DOMAIN-SUFFIX,dokidokiweb.com
 DOMAIN-SUFFIX,sakura-cat1.com
 DOMAIN-SUFFIX,sakura-cat3.com
+DOMAIN-SUFFIX,cat-cdn.com
 DOMAIN-SUFFIX,sakura-cat-cnd1.com
+DOMAIN-SUFFIX,sakura-cat-cdn2.com
 DOMAIN-SUFFIX,sakura-cat-cdn3.com
+DOMAIN-SUFFIX,crisp.chat
 
 # 基础
 DOMAIN-SUFFIX,time.windows.com
