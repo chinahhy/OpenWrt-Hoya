@@ -77,8 +77,6 @@ DOMAIN-KEYWORD,ghp
 # sublimetext
 DOMAIN-SUFFIX,sublimetext.com
 DOMAIN-SUFFIX,sublimehq.com
-
-# sublimetext
 DOMAIN-SUFFIX,sublimetext.top
 
 # 英伟达
@@ -172,6 +170,7 @@ DOMAIN-SUFFIX,static-bluray.com
 DOMAIN-SUFFIX,framerusercontent.com
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,cdnlz22.com
+DOMAIN-SUFFIX,jquery.com
 
 # 图床
 DOMAIN-SUFFIX,img.xingtan.one
