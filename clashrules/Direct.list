@@ -99,6 +99,9 @@ DOMAIN-SUFFIX,gxnas.com
 DOMAIN-SUFFIX,bgegao.com
 DOMAIN-SUFFIX,zhoujie218.top
 
+# 豆瓣
+DOMAIN-SUFFIX,frodo.douban.com
+
 # 在线观影平台
 DOMAIN-SUFFIX,meowtv.vip
 DOMAIN-SUFFIX,meowtv.top
