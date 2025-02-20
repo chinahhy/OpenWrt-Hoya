@@ -1,11 +1,4 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-# Mylist
-DOMAIN-SUFFIX,netok.xyz
-DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,mij.rip
-DOMAIN-SUFFIX,pages.dev
-DOMAIN-SUFFIX,gxnas.com
-
 # 梯子域名
 DOMAIN-SUFFIX,catcat321.com
 DOMAIN-SUFFIX,sakura-cat1.com
@@ -60,26 +53,59 @@ DOMAIN-SUFFIX,btschool.net
 DOMAIN-SUFFIX,cdfile.org
 DOMAIN-SUFFIX,ptlover.cc
 DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,ptdream.net
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,discfan.net
+DOMAIN-SUFFIX,ptlover.cc
+DOMAIN-SUFFIX,loli.net
 
-# 未知
+# 自购域名
+DOMAIN-SUFFIX,199462.xyz
+
+# 镜像加速
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
+
+# sublimetext
 DOMAIN-SUFFIX,sublimetext.com
 DOMAIN-SUFFIX,sublimehq.com
-DOMAIN-SUFFIX,sun-panel.top
-DOMAIN-SUFFIX,199462.xyz
+
+# sublimetext
+DOMAIN-SUFFIX,sublimetext.top
+
+# 英伟达
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,nvidiagrid.net
+
+# Adobe
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobe.com
+
+# moviepilot
+DOMAIN-SUFFIX,movie-pilot.org
+
+# 论坛
+DOMAIN-SUFFIX,hassbian.com
+DOMAIN-SUFFIX,gebi1.com
+
+# 赛睿
+DOMAIN-SUFFIX,steelseries.com
+
+# 博客
+DOMAIN-SUFFIX,gxnas.com
+DOMAIN-SUFFIX,bgegao.com
+DOMAIN-SUFFIX,zhoujie218.top
+
+# 在线观影平台
 DOMAIN-SUFFIX,meowtv.vip
 DOMAIN-SUFFIX,meowtv.top
 DOMAIN-SUFFIX,v1.mk
-DOMAIN-SUFFIX,hassbian.com
 DOMAIN-SUFFIX,hostbuf.com
 DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,a-volute.com
-DOMAIN-SUFFIX,steelseries.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,iconify.design
 DOMAIN-SUFFIX,akamaized.net
@@ -116,45 +142,42 @@ DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,souyisou.top
 DOMAIN-SUFFIX,ijujitv.cc
+
+# 去广告
+DOMAIN-SUFFIX,adblockplus.org
+
+# 其它
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,conveniencespace.com
-DOMAIN-SUFFIX,gebi1.com
-DOMAIN-SUFFIX,zhoujie218.top
 DOMAIN-SUFFIX,wandhi.com
-DOMAIN-SUFFIX,bgegao.com
 DOMAIN-SUFFIX,imaegoo.com
-DOMAIN-SUFFIX,adobedtm.com
-DOMAIN-SUFFIX,adobe.io
-DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,tutu.to
 DOMAIN-SUFFIX,xperi.com
 DOMAIN-SUFFIX,112114.xyz
-DOMAIN-SUFFIX,tlover.cc
 DOMAIN-SUFFIX,danteng.org
 DOMAIN-SUFFIX,wingify.com
 DOMAIN-SUFFIX,z4q834d.net
 DOMAIN-SUFFIX,static-bluray.com
-DOMAIN-SUFFIX,movie-pilot.org
-DOMAIN-SUFFIX,loli.net
-DOMAIN-SUFFIX,imgtg.com
 DOMAIN-SUFFIX,framerusercontent.com
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,cdnlz22.com
-DOMAIN-SUFFIX,simplesvg.com
-DOMAIN-SUFFIX,adblockplus.org
-DOMAIN-SUFFIX,freeimage.host
-DOMAIN-SUFFIX,iili.io
-DOMAIN-SUFFIX,miji.bid
-DOMAIN-SUFFIX,miji.rip
-DOMAIN-SUFFIX,ptdream.net
-DOMAIN-SUFFIX,carpt.net
-DOMAIN-SUFFIX,p.sda1.dev
+
+# 图床
 DOMAIN-SUFFIX,img.xingtan.one
 DOMAIN-SUFFIX,yueing.org
-DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,weserv.nl
 DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,pnglog.com
 DOMAIN-SUFFIX,imgs.moe
 DOMAIN-SUFFIX,ptpimg.me
+DOMAIN-SUFFIX,netok.xyz
+DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,imgtg.com
+DOMAIN-SUFFIX,freeimage.host
+DOMAIN-SUFFIX,simplesvg.com
+DOMAIN-SUFFIX,iili.io
+DOMAIN-SUFFIX,miji.bid
+DOMAIN-SUFFIX,miji.rip
+DOMAIN-SUFFIX,p.sda1.dev
