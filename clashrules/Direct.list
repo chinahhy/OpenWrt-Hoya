@@ -190,6 +190,7 @@ DOMAIN-SUFFIX,pipu.studio
 DOMAIN-SUFFIX,90dao.com
 DOMAIN-SUFFIX,fundraiseup.com
 DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,wedata.net
 
 # 图床
 DOMAIN-SUFFIX,img.xingtan.one
@@ -222,3 +223,6 @@ DOMAIN-SUFFIX,tianli0.top
 DOMAIN-SUFFIX,ko-fi.com
 DOMAIN-SUFFIX,wpfast.org
 DOMAIN-SUFFIX,skillicons.dev
+
+# 微软
+DOMAIN-SUFFIX,appcenter.ms
