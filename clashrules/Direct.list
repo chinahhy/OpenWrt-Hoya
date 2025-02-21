@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,gdcucc.v1.mk
 # 油猴插件库
 DOMAIN-SUFFIX,greasyfork.org
 
+# Emby
+DOMAIN-SUFFIX,mb3admin.com
+
 # 飞牛OS
 DOMAIN-KEYWORD,fnnas
 
