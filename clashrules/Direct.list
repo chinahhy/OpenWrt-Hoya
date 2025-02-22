@@ -1,4 +1,13 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# 20250222补充
+DOMAIN-SUFFIX,xlys01.com
+DOMAIN-SUFFIX,caoni.ru
+DOMAIN-SUFFIX,gduamoe.com
+DOMAIN-SUFFIX,ltd.ua
+DOMAIN-SUFFIX,q19jcg.com
+DOMAIN-SUFFIX,nbpicture.xyz
+
 # IPTV 相关
 DOMAIN-SUFFIX,cmdns.xyz
 DOMAIN-SUFFIX,112114.xyz
