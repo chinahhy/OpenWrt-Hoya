@@ -7,6 +7,12 @@ DOMAIN-SUFFIX,wingify.com
 DOMAIN-SUFFIX,z4q834d.net
 DOMAIN-SUFFIX,baozhiqiang.xyz
 
+# java库
+DOMAIN-SUFFIX,jquery.com
+
+#lucky反代
+DOMAIN-SUFFIX,lucky.gd
+
 # 客服在线聊天域名
 DOMAIN-SUFFIX,salesforceliveagent.com
 
