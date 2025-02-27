@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,wingify.com
 DOMAIN-SUFFIX,z4q834d.net
 DOMAIN-SUFFIX,baozhiqiang.xyz
 
+# 广告拦截
+DOMAIN-SUFFIX,adblockplus.org
+
 # 兔兔图床
 DOMAIN-SUFFIX,tutu.to
 
