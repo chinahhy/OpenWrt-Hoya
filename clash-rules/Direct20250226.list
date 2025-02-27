@@ -34,6 +34,14 @@ DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,iili.io
 DOMAIN-SUFFIX,transcend-cdn.com
+DOMAIN-SUFFIX,kunlun.com
+DOMAIN-SUFFIX,cdngslb.com
+DOMAIN-SUFFIX,dnsv1.com
+DOMAIN-SUFFIX,tc.cdntip.com
+DOMAIN-SUFFIX,bdydns.com
+DOMAIN-SUFFIX,jomodns.com
+DOMAIN-SUFFIX,qiniudns.com
+DOMAIN-SUFFIX,aicdn.com
 
 # sublimetext
 DOMAIN-SUFFIX,sublimehq.com
