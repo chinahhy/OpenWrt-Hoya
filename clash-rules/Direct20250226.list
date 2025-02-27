@@ -1,9 +1,11 @@
+# istoreos
+DOMAIN-KEYWORD,istoreos
 # MP平台
 DOMAIN-SUFFIX,moviepilot.org
 
 #火狐
-DOMAIN-KEYWORD,mozilla,DIRECT
-DOMAIN-KEYWORD,firefox,DIRECT
+DOMAIN-KEYWORD,mozilla
+DOMAIN-KEYWORD,firefox
 
 # 梯子域名
 DOMAIN-SUFFIX,catcat321.com
