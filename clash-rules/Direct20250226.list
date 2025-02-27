@@ -30,9 +30,10 @@ DOMAIN-SUFFIX,sun-panel.top
 # 华硕相关
 DOMAIN-SUFFIX,asus.com
 
-# 内容网络分发
+# 内容网络分发CDN
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,iili.io
+DOMAIN-SUFFIX,transcend-cdn.com
 
 # sublimetext
 DOMAIN-SUFFIX,sublimehq.com
