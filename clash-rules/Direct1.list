@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,baozhiqiang.xyz
 DOMAIN-SUFFIX,90dao.com
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,z4a.net
-DOMAIN-SUFFIX,chdbits.co
 
 # TCL
 DOMAIN-SUFFIX,tclai.top
@@ -95,6 +94,7 @@ DOMAIN-SUFFIX,sakura-cat-cdn3.com
 DOMAIN-SUFFIX,crisp.chat
 
 # PT站点
+DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,qingwapt.org
 DOMAIN-SUFFIX,qingwapt.com
 DOMAIN-SUFFIX,qingwapt.pro
