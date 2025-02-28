@@ -75,9 +75,6 @@ DOMAIN-KEYWORD,istoreos
 # 飞牛
 DOMAIN-KEYWORD,fnnas
 
-# MP平台
-DOMAIN-SUFFIX,movie-pilot.org
-
 #火狐
 DOMAIN-KEYWORD,mozilla
 DOMAIN-KEYWORD,firefox
