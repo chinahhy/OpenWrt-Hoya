@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,90dao.com
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,z4a.net
 
+# transmission
+DOMAIN-SUFFIX,transmissionbt.com
+
 # TCL
 DOMAIN-SUFFIX,tclai.top
 
