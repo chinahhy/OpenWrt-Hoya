@@ -12,6 +12,12 @@ DOMAIN-SUFFIX,90dao.com
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,z4a.net
 
+# ipa下载论坛
+DOMAIN-SUFFIX,ipazyw.com
+DOMAIN-SUFFIX,ipa.store
+DOMAIN-SUFFIX,ipaku.cc
+DOMAIN-SUFFIX,diyios.com
+
 # transmission
 DOMAIN-SUFFIX,transmissionbt.com
 
