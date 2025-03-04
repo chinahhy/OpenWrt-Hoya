@@ -73,6 +73,7 @@ DOMAIN-SUFFIX,sublimetext.com
 
 # 英伟达
 DOMAIN-KEYWORD,nvidia
+DOMAIN-KEYWORD,geforce
 
 # istoreos
 DOMAIN-KEYWORD,istoreos
