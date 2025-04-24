@@ -15,6 +15,9 @@ DOMAIN-SUFFIX,gitlink.net
 DOMAIN-SUFFIX,fengshows-cdn.com
 DOMAIN-SUFFIX,okyago.com
 
+# iPTV相关
+DOMAIN-SUFFIX,fanmingming.com
+
 # 博客or论坛
 DOMAIN-SUFFIX,cpolar.top
 DOMAIN-SUFFIX,gxnas.com
