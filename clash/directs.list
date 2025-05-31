@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,downloadbox.me
 DOMAIN-SUFFIX,open.cd
 
 # 未知但可直连
+DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,userway.org
 DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,112114.xyz
