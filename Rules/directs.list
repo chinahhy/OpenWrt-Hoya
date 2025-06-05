@@ -1,6 +1,3 @@
-# 测试
-DOMAIN-SUFFIX,cloudflare-dns.com
-
 # PT站点
 DOMAIN-SUFFIX,pttime.online
 DOMAIN-SUFFIX,ptsbao.club
