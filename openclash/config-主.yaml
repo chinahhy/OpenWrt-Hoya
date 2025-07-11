@@ -169,7 +169,6 @@ rule-providers:
   hoya-direct: { <<: *class, url: "https://raw.githubusercontent.com/chinahhy/OpenWrt-Hoya/refs/heads/main/openclash/direct.list"}
   hoya-proxy: { <<: *class, url: "https://raw.githubusercontent.com/chinahhy/OpenWrt-Hoya/refs/heads/main/openclash/proxy.list"}
   private_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.mrs"}
-  proxylite: { <<: *class, url: "https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/main/proxy.list"}
   ai: {  <<: *domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/category-ai-!cn.mrs" }
   youtube_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.mrs"}
   google_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.mrs"}
