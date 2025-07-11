@@ -138,7 +138,6 @@ rules:
   - RULE-SET,hoya-direct,♻️ 自动选择
   - RULE-SET,private_domain,直连
   - RULE-SET,apple_domain,🍎 Apple
-  - RULE-SET,proxylite,🚀 默认代理
   - RULE-SET,ai,🤖 ChatGPT
   - RULE-SET,github_domain,👨🏿‍💻 GitHub
   - RULE-SET,youtube_domain,📹 YouTube
