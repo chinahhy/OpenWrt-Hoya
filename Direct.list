@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,ghproxy.net
 # 同人图
 DOMAIN-SUFFIX,fanart.tv
 
+# 工具网站
+DOMAIN-SUFFIX,czpygy.com
+
 # 未知但可直连
 DOMAIN-SUFFIX,userway.org
 DOMAIN-SUFFIX,nelreports.net
