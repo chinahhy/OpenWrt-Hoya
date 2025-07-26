@@ -7,6 +7,9 @@ DOMAIN-KEYWORDS,4gq62f52gdss
 DOMAIN-KEYWORDS,CyberAirport
 DOMAIN-KEYWORDS,cyberairport
 
+# CDN节点
+DOMAIN-SUFFIX,gvt1.com
+
 # Github加速
 DOMAIN-SUFFIX,ghproxy.net
 
