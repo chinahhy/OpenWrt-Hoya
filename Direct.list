@@ -10,6 +10,7 @@ DOMAIN-KEYWORDS,cyberairport
 # CDN节点
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,gilcdn.com
 
 # Github加速
 DOMAIN-SUFFIX,ghproxy.net
@@ -68,6 +69,12 @@ DOMAIN-SUFFIX,nanodesu.net
 
 # 图床
 DOMAIN-SUFFIX,picgo.net
+DOMAIN-SUFFIX,ylimg.com
+DOMAIN-SUFFIX,imgbox.com
+DOMAIN-SUFFIX,exoticaz.to
+DOMAIN-SUFFIX,imgs.ovh
+DOMAIN-SUFFIX,kamept.com
+DOMAIN-SUFFIX,2048.spa
 
 # ipa下载论坛或网站
 DOMAIN-SUFFIX,ipazyw.com
