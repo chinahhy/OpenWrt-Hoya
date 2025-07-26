@@ -15,6 +15,9 @@ DOMAIN-SUFFIX,gilcdn.com
 # Github加速
 DOMAIN-SUFFIX,ghproxy.net
 
+# 比特彗星
+DOMAIN-SUFFIX,bitcomet.com
+
 # 色花堂
 DOMAIN-SUFFIX,microsoftsa.com
 DOMAIN-SUFFIX,jwcop.net
