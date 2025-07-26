@@ -15,6 +15,11 @@ DOMAIN-SUFFIX,gilcdn.com
 # Github加速
 DOMAIN-SUFFIX,ghproxy.net
 
+# 色花堂
+DOMAIN-SUFFIX,microsoftsa.com
+DOMAIN-SUFFIX,jwcop.net
+DOMAIN-SUFFIX,2qq42.us
+
 # 同人图
 DOMAIN-SUFFIX,fanart.tv
 
