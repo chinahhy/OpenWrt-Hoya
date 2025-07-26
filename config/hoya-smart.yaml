@@ -1,25 +1,46 @@
 # 跑裸核用户请自行去掉下方控制面板模块的注释。
 # 机场订阅
 proxy-providers:
-  Hoya:
-    url: "http://10.0.0.25:7001/pZFUKz85fMDnJBpWkVmb/download/collection/Hoyas"
+  Sakuracat-QQ邮箱:
+    url: "https://0b96e976-9ec3-44c0-aa2b-30bf8b0792ea.com/api/v1/client/subscribe?token=0642d1df1022b0bb9376c1965a26348e"
     type: http
     interval: 86400
+    filter: "^(?!.*(5倍|剩余|套餐)).*$"
     health-check:
       enable: true
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 直连
-  CyberAirport :
+  Sakuracat-微软邮箱:
+    url: "https://0b96e976-9ec3-44c0-aa2b-30bf8b0792ea.com/api/v1/client/subscribe?token=034ae18c41adea734e8c6ad68c067aa7"
+    type: http
+    interval: 86400
+    filter: "^(?!.*(5倍|剩余|套餐)).*$"
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 直连
+  一元机场-QQ邮箱 :
+    url: "https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=39199d1a755e8d7bd0a965038f5926e7"
+    type: http
+    interval: 86400
+    filter: "^(?!.*(一元机场|刷新)).*$"
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 直连
+  CyberAirport-微软邮箱 :
     url: "https://cn4.cyberairport.work/api/v1/client/subscribe?token=ef85fd51453a091f8f942a522a9dced8"
     type: http
     interval: 86400
+    filter: "^(?!.*(专业|剩余|套餐|3x|TG|.net)).*$"
     health-check:
       enable: true
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 直连
-    filter: '"专业"|"剩余"|"官网"|"3x"|"Channel"|".net"'
 
 # 节点信息
 proxies:
