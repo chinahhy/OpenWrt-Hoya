@@ -9,6 +9,7 @@ DOMAIN-KEYWORDS,cyberairport
 
 # CDN节点
 DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,windows.net
 
 # Github加速
 DOMAIN-SUFFIX,ghproxy.net
