@@ -7,6 +7,12 @@ DOMAIN-KEYWORDS,4gq62f52gdss
 DOMAIN-KEYWORDS,CyberAirport
 DOMAIN-KEYWORDS,cyberairport
 
+# 屏蔽Apple系统更新
+DOMAIN-SUFFIX,gdmf.apple.com
+
+# 机场内部聊天平台
+DOMAIN-SUFFIX,crisp.chat
+
 # CDN节点
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,windows.net
