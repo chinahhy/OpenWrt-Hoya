@@ -2,19 +2,19 @@
 DOMAIN-SUFFIX,199462.xyz
 
 # Apple相关
-DOMAIN-KEYWORDS,apple.com
+DOMAIN-SUFFIX,apple.com
 
 # 机场
-DOMAIN-KEYWORDS,sakura-cat
-DOMAIN-KEYWORDS,4gq62f52gdss
-DOMAIN-KEYWORDS,CyberAirport
-DOMAIN-KEYWORDS,cyberairport
+DOMAIN-SUFFIX,sakura-cat1.com
+DOMAIN-SUFFIX,sakura-cat3.com
+DOMAIN-SUFFIX,sakura-cat-cdn1.com
+DOMAIN-SUFFIX,sakura-cat-cdn3.com
+DOMAIN-SUFFIX,cyberairport.net
+DOMAIN-SUFFIX,wgetcloud.org
+DOMAIN-SUFFIX,bajie.la
 
 # IOS或安卓事件追踪
 DOMAIN-SUFFIX,appsflyersdk.com
-
-# 屏蔽Apple系统更新
-DOMAIN-SUFFIX,gdmf.apple.com
 
 # 机场内部聊天平台
 DOMAIN-SUFFIX,crisp.chat
@@ -178,10 +178,6 @@ DOMAIN-KEYWORD,istoreos
 
 # 飞牛
 DOMAIN-KEYWORD,fnnas
-
-#火狐
-DOMAIN-KEYWORD,mozilla
-DOMAIN-KEYWORD,firefox
 
 # 在线观影平台
 DOMAIN-SUFFIX,meowtv.vip
