@@ -7,6 +7,9 @@ DOMAIN-KEYWORDS,4gq62f52gdss
 DOMAIN-KEYWORDS,CyberAirport
 DOMAIN-KEYWORDS,cyberairport
 
+# IOS或安卓事件追踪
+DOMAIN-SUFFIX,appsflyersdk.com
+
 # 屏蔽Apple系统更新
 DOMAIN-SUFFIX,gdmf.apple.com
 
