@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,api.thetvdb.com
 
+# ChatSmith
+DOMAIN-SUFFIX,freshchat.com
+
 # 其他
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,claw.cloud
