@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,gilcdn.com
 
 # Github加速
 DOMAIN-SUFFIX,ghproxy.net
+DOMAIN-SUFFIX,akams.cn
 
 # 比特彗星
 DOMAIN-SUFFIX,bitcomet.com
