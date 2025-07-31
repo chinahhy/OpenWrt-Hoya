@@ -6,12 +6,16 @@ DOMAIN-SUFFIX,apple.com
 
 # 机场
 DOMAIN-SUFFIX,sakura-cat1.com
+DOMAIN-SUFFIX,sakura-cat2.com
 DOMAIN-SUFFIX,sakura-cat3.com
 DOMAIN-SUFFIX,sakura-cat-cdn1.com
+DOMAIN-SUFFIX,sakura-cat-cdn2.com
 DOMAIN-SUFFIX,sakura-cat-cdn3.com
 DOMAIN-SUFFIX,cyberairport.net
 DOMAIN-SUFFIX,wgetcloud.org
 DOMAIN-SUFFIX,bajie.la
+DOMAIN-SUFFIX,xn--4gq62f52gdss.ink
+DOMAIN-SUFFIX,xn--z4q834d.net
 
 # IOS或安卓事件追踪
 DOMAIN-SUFFIX,appsflyersdk.com
