@@ -73,6 +73,23 @@ DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,gilcdn.com
 
+# CSDN
+DOMAIN-SUFFIX,gitcode.com
+DOMAIN-SUFFIX,gitchat.cn
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,kaifayun.com
+DOMAIN-SUFFIX,csdnimg.cn
+DOMAIN-SUFFIX,csto.com
+DOMAIN-SUFFIX,csdn.com
+DOMAIN-SUFFIX,gitbook.cn
+DOMAIN-SUFFIX,datasea.cn
+DOMAIN-SUFFIX,codechina.net
+DOMAIN-SUFFIX,gitcode.net
+DOMAIN-SUFFIX,iteye.com
+DOMAIN-SUFFIX,csdn.net.cn
+DOMAIN-SUFFIX,programmer.com.cn
+DOMAIN-SUFFIX,programmer.net.cn
+
 # Github加速
 DOMAIN-SUFFIX,ghproxy.net
 DOMAIN-SUFFIX,akams.cn
@@ -566,3 +583,4 @@ DOMAIN-SUFFIX,marketo.co.uk
 DOMAIN-SUFFIX,adobedc.cn
 DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
+
