@@ -10,9 +10,8 @@ DOMAIN-SUFFIX,freshchat.com
 # 其他
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,claw.cloud
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,1e100
+DOMAIN-SUFFIX,1e100.net
+DOMAIN-SUFFIX,1e100.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
