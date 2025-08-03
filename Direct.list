@@ -15,6 +15,9 @@ DOMAIN-SUFFIX,xn--4gq62f52gdss.ink
 DOMAIN-SUFFIX,xn--z4q834d.net
 DOMAIN-SUFFIX,artislg.com
 
+# 人机验证
+DOMAIN-SUFFIX,hcaptcha.com
+
 # 在线观影平台
 DOMAIN-SUFFIX,meowtv.vip
 DOMAIN-SUFFIX,meowtv.top
@@ -583,4 +586,5 @@ DOMAIN-SUFFIX,marketo.co.uk
 DOMAIN-SUFFIX,adobedc.cn
 DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
+
 
