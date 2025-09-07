@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,wgetcloud.org
 DOMAIN-SUFFIX,bajie.la
 DOMAIN-SUFFIX,artislg.com
 
+# 镜像转换工具
+DOMAIN-SUFFIX,starwindsoftware.com
+
 # 破解软件下载站
 DOMAIN-SUFFIX,0210.net
 
@@ -600,6 +603,7 @@ DOMAIN-SUFFIX,marketo.co.uk
 DOMAIN-SUFFIX,adobedc.cn
 DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
+
 
 
 
