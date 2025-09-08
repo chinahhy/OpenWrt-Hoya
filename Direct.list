@@ -1,6 +1,9 @@
 # 自购域名
 DOMAIN-SUFFIX,199462.xyz
 
+# apple
+DOMAIN-SUFFIX,apple.com
+
 # immortalwrt固件下载
 DOMAIN-SUFFIX,kyarucloud.moe
 
@@ -603,6 +606,7 @@ DOMAIN-SUFFIX,marketo.co.uk
 DOMAIN-SUFFIX,adobedc.cn
 DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
+
 
 
 
