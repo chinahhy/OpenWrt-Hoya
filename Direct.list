@@ -156,6 +156,11 @@ DOMAIN-SUFFIX,qualtrics.com
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,iill.top
 DOMAIN-SUFFIX,iptv.cc
+DOMAIN-SUFFIX,aptv.app
+DOMAIN-SUFFIX,ottiptv.cc
+DOMAIN-SUFFIX,iill.top
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,bit.ly
 
 # 字幕网
 DOMAIN-SUFFIX,subhd.tv
@@ -606,6 +611,7 @@ DOMAIN-SUFFIX,marketo.co.uk
 DOMAIN-SUFFIX,adobedc.cn
 DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
+
 
 
 
