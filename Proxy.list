@@ -4,23 +4,6 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,api.thetvdb.com3
 
-#Byte-Muse
-DOMAIN-SUFFIX,co.jp
-DOMAIN-SUFFIX,dasdas.jp
-DOMAIN-SUFFIX,ffaoa.com
-DOMAIN-SUFFIX,honnaka.jp
-DOMAIN-SUFFIX,avbase.net
-DOMAIN-SUFFIX,moodyz.com
-DOMAIN-SUFFIX,s1s1s1.com
-DOMAIN-SUFFIX,javbus.com
-DOMAIN-SUFFIX,attackers.net
-DOMAIN-SUFFIX,jdbstatic.com
-DOMAIN-SUFFIX,javlibrary.com
-DOMAIN-SUFFIX,ideapocket.com
-DOMAIN-SUFFIX,madonna-av.com
-DOMAIN-SUFFIX,wanz-factory.com
-DOMAIN-SUFFIX,premium-beauty.com
-
 # 一元机场
 DOMAIN-SUFFIX,xn--4gq62f52gdss.ink
 
@@ -55,6 +38,7 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
 
 
 
