@@ -1,6 +1,9 @@
 # 自购域名
 DOMAIN-SUFFIX,199462.xyz
 
+# 其它个人域名
+DOMAIN-SUFFIX,baotangguo.cn
+
 # apple
 DOMAIN-SUFFIX,apple.com
 
@@ -611,6 +614,7 @@ DOMAIN-SUFFIX,marketo.co.uk
 DOMAIN-SUFFIX,adobedc.cn
 DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
+
 
 
 
