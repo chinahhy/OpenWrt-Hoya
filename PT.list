@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,m-team.co
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,hdcmct.org
 
+# PT站点-猫站
+DOMAIN-SUFFIX,pterclub.net
+
 # PT站点-憨憨
 DOMAIN-SUFFIX,hhan.club
 DOMAIN-SUFFIX,hhanclub.top
@@ -113,5 +116,6 @@ DOMAIN-SUFFIX,soulvoice.club
 
 # PT站点-烧包
 DOMAIN-SUFFIX,ptsbao.club
+
 
 
