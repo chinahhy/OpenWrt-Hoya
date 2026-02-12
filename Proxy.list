@@ -33,7 +33,6 @@ DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,hostloc.com
-DOMAIN-SUFFIX,gitwarp.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
@@ -57,4 +56,5 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 # 其他
 DOMAIN-SUFFIX,home-assistant.io
+
 
