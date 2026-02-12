@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,zconnect.cn
 # 其它个人域名
 DOMAIN-SUFFIX,baotangguo.cn
 DOMAIN-SUFFIX,ipaxxs.cn
+DOMAIN-SUFFIX,ttt.sh
 
 # apple
 DOMAIN-SUFFIX,apple.com
@@ -622,3 +623,4 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
+
