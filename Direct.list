@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,okyago.com
 DOMAIN-SUFFIX,jprj.com
 DOMAIN-SUFFIX,0hax7.app
 DOMAIN-SUFFIX,libravatar.org
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.net
+DOMAIN-SUFFIX,onetrust.com
 
 # 脚本猫
 DOMAIN-SUFFIX,scriptcat.org
@@ -633,6 +636,7 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
+
 
 
 
