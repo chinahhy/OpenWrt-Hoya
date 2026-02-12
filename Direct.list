@@ -201,7 +201,7 @@ DOMAIN-SUFFIX,vumstar.com
 DOMAIN-SUFFIX,nanodesu.net
 DOMAIN-SUFFIX,nickyam.com
 
-# 图床
+# 图床or图标
 DOMAIN-SUFFIX,picgo.net
 DOMAIN-SUFFIX,ylimg.com
 DOMAIN-SUFFIX,imgbox.com
@@ -209,6 +209,7 @@ DOMAIN-SUFFIX,exoticaz.to
 DOMAIN-SUFFIX,imgs.ovh
 DOMAIN-SUFFIX,kamept.com
 DOMAIN-SUFFIX,2048.spa
+DOMAIN-SUFFIX,unisvg.com
 
 # ipa下载论坛或网站
 DOMAIN-SUFFIX,ipazyw.com
@@ -625,5 +626,6 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
+
 
 
