@@ -62,8 +62,3 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 # 其他
 DOMAIN-SUFFIX,home-assistant.io
-
-
-
-
-
