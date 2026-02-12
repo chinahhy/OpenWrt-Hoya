@@ -221,6 +221,9 @@ DOMAIN-SUFFIX,imgs.ovh
 DOMAIN-SUFFIX,kamept.com
 DOMAIN-SUFFIX,2048.spa
 DOMAIN-SUFFIX,unisvg.com
+DOMAIN-SUFFIX,fontshare.com
+DOMAIN-SUFFIX,supabase.co
+DOMAIN-SUFFIX,tabboard.com
 
 # ipa下载论坛或网站
 DOMAIN-SUFFIX,ipazyw.com
@@ -637,6 +640,7 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
+
 
 
 
