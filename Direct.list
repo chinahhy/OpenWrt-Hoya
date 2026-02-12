@@ -47,6 +47,10 @@ DOMAIN-SUFFIX,sakura-cat3.com
 DOMAIN-SUFFIX,sakura-cat-cdn1.com
 DOMAIN-SUFFIX,sakura-cat-cdn2.com
 DOMAIN-SUFFIX,sakura-cat-cdn3.com
+DOMAIN-SUFFIX,1-sakuracat.com
+DOMAIN-SUFFIX,2-sakuracat.com
+DOMAIN-SUFFIX,c1-sakuracat.com
+DOMAIN-SUFFIX,c2-sakuracat.com
 DOMAIN-SUFFIX,cyberairport.net
 DOMAIN-SUFFIX,wgetcloud.org
 DOMAIN-SUFFIX,bajie.la
@@ -626,6 +630,7 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
+
 
 
 
