@@ -23,6 +23,9 @@ DOMAIN-SUFFIX,stripe.net
 DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,cookielaw.org
 
+# 端口开放查询
+DOMAIN-SUFFIX,canyouseeme.org
+
 # 脚本猫
 DOMAIN-SUFFIX,scriptcat.org
 
@@ -641,6 +644,7 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
+
 
 
 
