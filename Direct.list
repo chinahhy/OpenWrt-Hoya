@@ -145,6 +145,7 @@ DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,gilcdn.com
+DOMAIN-SUFFIX,auth0.com
 
 # CSDN
 DOMAIN-SUFFIX,gitcode.com
@@ -657,6 +658,7 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
+
 
 
 
