@@ -27,6 +27,12 @@ DOMAIN-SUFFIX,eyeo.com
 DOMAIN-SUFFIX,packagecontrol.io
 DOMAIN-SUFFIX,geekzu.org
 
+# Notion
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,sentry.io
+
 #雷鸟邮箱
 DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,mozilla.org
@@ -659,6 +665,7 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
+
 
 
 
