@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,giscus.app
 DOMAIN-SUFFIX,eyeo.com
+DOMAIN-SUFFIX,packagecontrol.io
 
 #Motrix下载器
 DOMAIN-SUFFIX,motrix.app
@@ -652,6 +653,7 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
+
 
 
 
