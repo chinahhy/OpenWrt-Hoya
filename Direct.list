@@ -27,6 +27,9 @@ DOMAIN-SUFFIX,eyeo.com
 DOMAIN-SUFFIX,packagecontrol.io
 DOMAIN-SUFFIX,geekzu.org
 
+# HomeAssistant
+DOMAIN-SUFFIX,hacs.xyz
+
 #emby
 DOMAIN-SUFFIX,mb3admin.com
 
@@ -668,6 +671,7 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
+
 
 
 
