@@ -395,6 +395,7 @@ DOMAIN-SUFFIX,cn.download.nvidia.com
 # firefox
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
+DOMAIN-SUFFIX,mozilla.com
 
 # istoreos
 DOMAIN-SUFFIX,istoreos.com
@@ -674,6 +675,7 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
+
 
 
 
