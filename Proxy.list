@@ -33,6 +33,12 @@ DOMAIN-SUFFIX,uptodown.com
 DOMAIN-SUFFIX,googo.win
 DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,acdb.tv
+DOMAIN-SUFFIX,chinatsu1124.com
+DOMAIN-SUFFIX,posthog.com
+DOMAIN-SUFFIX,kakao.com
+
+# Disdord
+DOMAIN-SUFFIX,discordapp.com
 
 #PotPlayer
 DOMAIN-SUFFIX,edge4k.com
@@ -78,6 +84,7 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
 
 
 
