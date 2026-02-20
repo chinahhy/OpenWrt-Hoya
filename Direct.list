@@ -27,6 +27,9 @@ DOMAIN-SUFFIX,eyeo.com
 DOMAIN-SUFFIX,packagecontrol.io
 DOMAIN-SUFFIX,geekzu.org
 
+# 沉浸式翻译插件
+DOMAIN-SUFFIX,immersivetranslate.com
+
 # HomeAssistant
 DOMAIN-SUFFIX,hacs.xyz
 
@@ -671,6 +674,7 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
+
 
 
 
