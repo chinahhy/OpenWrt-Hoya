@@ -45,6 +45,9 @@ DOMAIN-SUFFIX,sentry.io
 #雷鸟邮箱
 DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,fundraiseup.com
+DOMAIN-SUFFIX,fndrsp.net
+DOMAIN-SUFFIX,innocraft.cloud
 
 #Motrix下载器
 DOMAIN-SUFFIX,motrix.app
