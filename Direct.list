@@ -33,7 +33,7 @@ DOMAIN-SUFFIX,immersivetranslate.com
 # HomeAssistant
 DOMAIN-SUFFIX,hacs.xyz
 
-#emby
+# emby
 DOMAIN-SUFFIX,mb3admin.com
 
 # Notion
@@ -42,14 +42,14 @@ DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,sentry.io
 
-#雷鸟邮箱
+# Thubderbird邮箱
 DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,fundraiseup.com
 DOMAIN-SUFFIX,fndrsp.net
 DOMAIN-SUFFIX,innocraft.cloud
 
-#Motrix下载器
+# Motrix下载器
 DOMAIN-SUFFIX,motrix.app
 
 # 端口开放查询
