@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,lyrical-nonsense.com
 DOMAIN-SUFFIX,static-bluray.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,sda1.dev
+DOMAIN-SUFFIX,ghostchu-services.top
 
 # Disdord
 DOMAIN-SUFFIX,discordapp.com
@@ -88,6 +89,7 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
 
 
 
