@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,chinatsu1124.com
 DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,lyrical-nonsense.com
+DOMAIN-SUFFIX,static-bluray.com
 
 # Disdord
 DOMAIN-SUFFIX,discordapp.com
@@ -85,6 +86,7 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
 
 
 
