@@ -32,6 +32,10 @@ DOMAIN-SUFFIX,house-of-usenet.com
 DOMAIN-SUFFIX,bluebird-hd.org
 DOMAIN-SUFFIX,blutopia.cc
 
+# python
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,pypi.org
+
 # 沉浸式翻译插件
 DOMAIN-SUFFIX,immersivetranslate.com
 
