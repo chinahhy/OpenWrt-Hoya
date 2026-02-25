@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,13city.org
 DOMAIN-SUFFIX,carpt.net
 DOMAIN-SUFFIX,discfan.net
 
+# 杜比
+DOMAIN-SUFFIX,hddolby.com
+
 # PT站点-馒头
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
