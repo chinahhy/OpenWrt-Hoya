@@ -46,6 +46,10 @@ DOMAIN-SUFFIX,extyy.com
 DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,ctfassets.net
 
+# Grok
+DOMAIN-SUFFIX,grokusercontent.com
+DOMAIN-SUFFIX,grokipedia.com
+
 # Disdord
 DOMAIN-SUFFIX,discordapp.com
 
