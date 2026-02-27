@@ -37,6 +37,12 @@ DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,pypi.org
 
+# 色花堂
+DOMAIN-SUFFIX,srg3f.net
+DOMAIN-SUFFIX,4rzxy.net
+DOMAIN-SUFFIX,0ly6e.net
+DOMAIN-SUFFIX,98t.la
+
 # 沉浸式翻译插件
 DOMAIN-SUFFIX,immersivetranslate.com
 
