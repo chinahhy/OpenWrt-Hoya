@@ -33,6 +33,9 @@ DOMAIN-SUFFIX,bluebird-hd.org
 DOMAIN-SUFFIX,blutopia.cc
 DOMAIN-SUFFIX,verisign.com
 
+# moviepilot
+DOMAIN-SUFFIX,movie-pilot.org
+
 # python
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,pypi.org
@@ -700,6 +703,7 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
+
 
 
 
