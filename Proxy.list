@@ -46,6 +46,9 @@ DOMAIN-SUFFIX,extyy.com
 DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,ctfassets.net
 
+# immortalwrt
+DOMAIN-SUFFIX,immortalwrt.org
+
 # U2动漫
 DOMAIN-SUFFIX,dmhy.best
 DOMAIN-SUFFIX,dmhy.org
