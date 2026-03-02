@@ -46,6 +46,9 @@ DOMAIN-SUFFIX,extyy.com
 DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,ctfassets.net
 
+# 博客or论坛
+DOMAIN-SUFFIX,vercel.app
+
 # 维基百科
 DOMAIN-SUFFIX,wikipedia.org
 
@@ -112,6 +115,7 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
 
 
 
