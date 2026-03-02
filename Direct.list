@@ -276,6 +276,8 @@ DOMAIN-SUFFIX,geekxw.top
 DOMAIN-SUFFIX,hanscn.com
 DOMAIN-SUFFIX,cbd.int
 DOMAIN-SUFFIX,i-meto.com
+DOMAIN-SUFFIX,umami.is
+DOMAIN-SUFFIX,wangshuai.app
 
 # 图床or图标
 DOMAIN-SUFFIX,picgo.net
@@ -713,6 +715,7 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
+
 
 
 
