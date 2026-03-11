@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,tavily.com
 DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,convex.site
 DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,brew.sh
 
 # 博客or论坛
 DOMAIN-SUFFIX,vercel.app
@@ -128,6 +129,7 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
 
 
 
