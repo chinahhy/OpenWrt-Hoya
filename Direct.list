@@ -34,6 +34,9 @@ DOMAIN-SUFFIX,blutopia.cc
 DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,umu.se
 
+# Obsidian
+DOMAIN-SUFFIX,obsidian.md
+
 # PVE
 DOMAIN-SUFFIX,proxmox.com
 
