@@ -62,6 +62,7 @@ DOMAIN-SUFFIX,brew.sh
 
 # 博客or论坛
 DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,openclawlab.com
 
 # 维基百科
 DOMAIN-SUFFIX,wikipedia.org
