@@ -34,6 +34,9 @@ DOMAIN-SUFFIX,blutopia.cc
 DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,umu.se
 
+# ai仓库
+DOMAIN-SUFFIX,clawhub.ai
+
 # Obsidian
 DOMAIN-SUFFIX,obsidian.md
 
