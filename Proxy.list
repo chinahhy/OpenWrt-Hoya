@@ -50,6 +50,9 @@ DOMAIN-SUFFIX,imtintl.com
 DOMAIN-SUFFIX,go-mpulse.net
 DOMAIN-SUFFIX,ldkms.la
 
+# Github
+DOMAIN-SUFFIX,github.io
+
 # Playwright 浏览器
 DOMAIN-SUFFIX,azureedge.net
 
