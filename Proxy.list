@@ -77,6 +77,9 @@ DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,wedata.net
 DOMAIN-SUFFIX,influxdata.com
 
+# Hermes
+DOMAIN-SUFFIX,nousresearch.com
+
 # 博客or论坛
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,openclawlab.com
