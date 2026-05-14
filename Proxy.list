@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,influxdata.com
 # Hermes
 DOMAIN-SUFFIX,nousresearch.com
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,privy.io
 
 # 博客or论坛
 DOMAIN-SUFFIX,vercel.app
