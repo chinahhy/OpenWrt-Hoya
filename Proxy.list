@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,influxdata.com
 DOMAIN-SUFFIX,nousresearch.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,privy.io
+DOMAIN-SUFFIX,duckduckgo.com
 
 # 博客or论坛
 DOMAIN-SUFFIX,vercel.app
