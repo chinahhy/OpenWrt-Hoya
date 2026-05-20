@@ -83,6 +83,8 @@ DOMAIN-SUFFIX,nousresearch.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,privy.io
 DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pythonhosted.org
 
 # 博客or论坛
 DOMAIN-SUFFIX,vercel.app
