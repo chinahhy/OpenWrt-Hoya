@@ -54,8 +54,8 @@ DOMAIN-SUFFIX,byteplusbiz.com
 DOMAIN-SUFFIX,yhgfb-static.com
 DOMAIN-SUFFIX,byteintlapi.com
 
-# ai仓库
-DOMAIN-SUFFIX,clawhub.ai
+# Ollama
+DOMAIN-SUFFIX,ollama.ai
 
 # Obsidian
 DOMAIN-SUFFIX,obsidian.md
