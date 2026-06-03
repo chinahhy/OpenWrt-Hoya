@@ -61,6 +61,9 @@ DOMAIN-SUFFIX,dummyimage.com
 DOMAIN-SUFFIX,star-history.com
 DOMAIN-SUFFIX,apkmirror.com
 
+# Copilot
+DOMAIN-SUFFIX,copilot.com
+
 # opencode
 DOMAIN-SUFFIX,opencode.ai
 
