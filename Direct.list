@@ -81,6 +81,9 @@ DOMAIN-SUFFIX,4rzxy.net
 DOMAIN-SUFFIX,0ly6e.net
 DOMAIN-SUFFIX,98t.la
 
+# keka压缩工具
+DOMAIN-SUFFIX,keka.io
+
 # 沉浸式翻译插件
 DOMAIN-SUFFIX,immersivetranslate.com
 
