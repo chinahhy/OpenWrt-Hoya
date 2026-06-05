@@ -2,15 +2,15 @@
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
-DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
-DOMAIN,pplx-res.cloudinary.com
+DOMAIN-SUFFIX,ppl-ai-file-upload.s3.amazonaws.com
+DOMAIN-SUFFIX,pplx-res.cloudinary.com
 
 # GitHub Copilot
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN,copilot-proxy.githubusercontent.com
-DOMAIN,copilot-workspace.githubnext.com
-DOMAIN,copilotprodattachments.blob.core.windows.net
+DOMAIN-SUFFIX,copilot-workspace.githubnext.com
+DOMAIN-SUFFIX,copilotprodattachments.blob.core.windows.net
 
 # Cursor
 DOMAIN-SUFFIX,cursor.com
