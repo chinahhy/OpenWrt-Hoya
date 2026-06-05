@@ -62,12 +62,6 @@ DOMAIN-SUFFIX,star-history.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,ippure.com
 
-# Copilot
-DOMAIN-SUFFIX,copilot.com
-
-# opencode
-DOMAIN-SUFFIX,opencode.ai
-
 # Github
 DOMAIN-SUFFIX,github.io
 
@@ -76,27 +70,6 @@ DOMAIN-SUFFIX,azureedge.net
 
 # Gmail
 DOMAIN-SUFFIX,gmailapp.store
-
-# OpenClaw
-DOMAIN-SUFFIX,unavatar.io
-DOMAIN-SUFFIX,mintcdn.com
-DOMAIN-SUFFIX,openclaw.ai
-DOMAIN-SUFFIX,convex.cloud
-DOMAIN-SUFFIX,tavily.com
-DOMAIN-SUFFIX,convex.site
-DOMAIN-SUFFIX,brave.com
-DOMAIN-SUFFIX,brew.sh
-DOMAIN-SUFFIX,nodejs.org
-DOMAIN-SUFFIX,wedata.net
-DOMAIN-SUFFIX,influxdata.com
-
-# Hermes
-DOMAIN-SUFFIX,nousresearch.com
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,privy.io
-DOMAIN-SUFFIX,duckduckgo.com
-DOMAIN-SUFFIX,pypi.org
-DOMAIN-SUFFIX,pythonhosted.org
 
 # 博客or论坛
 DOMAIN-SUFFIX,vercel.app
@@ -116,10 +89,6 @@ DOMAIN-SUFFIX,immortalwrt.org
 # U2动漫
 DOMAIN-SUFFIX,dmhy.best
 DOMAIN-SUFFIX,dmhy.org
-
-# Grok
-DOMAIN-SUFFIX,grokusercontent.com
-DOMAIN-SUFFIX,grokipedia.com
 
 # Disdord
 DOMAIN-SUFFIX,discordapp.com
