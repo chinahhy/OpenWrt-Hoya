@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,icanhazip.com
 DOMAIN-SUFFIX,appstoreprice.org
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,darkreader.org
+DOMAIN-SUFFIX,the-best-airport.com
 
 # 火山引擎
 DOMAIN-SUFFIX,byteplusbiz.com
@@ -412,7 +413,7 @@ DOMAIN-SUFFIX,aicdn.com
 DOMAIN-SUFFIX,sublimehq.com
 DOMAIN-SUFFIX,sublimetext.com
 
-# 英伟达
+# Nvidia
 DOMAIN-SUFFIX,nvidia.tt.omtrdc.net
 DOMAIN-SUFFIX,nvidia.nl
 DOMAIN-SUFFIX,nvidiaforhp.com
@@ -759,41 +760,3 @@ DOMAIN-SUFFIX,tubemogul.com
 
 #网络数据分析-广告
 DOMAIN-SUFFIX,scorecardresearch.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
