@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,api.thetvdb.com
 
+# hermes agent
+DOMAIN-SUFFIX,nousresearch.com
+
 # 其他
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,qichiyu.com
