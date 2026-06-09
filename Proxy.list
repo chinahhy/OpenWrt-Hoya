@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,api.thetvdb.com
 
-# hermes agent
+# hermes-agent
 DOMAIN-SUFFIX,nousresearch.com
 
 # 其他
@@ -64,6 +64,7 @@ DOMAIN-SUFFIX,dummyimage.com
 DOMAIN-SUFFIX,star-history.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,ippure.com
+DOMAIN-SUFFIX,vercel-storage.com
 
 # Github
 DOMAIN-SUFFIX,github.io
