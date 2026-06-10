@@ -66,6 +66,9 @@ DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,ippure.com
 DOMAIN-SUFFIX,vercel-storage.com
 
+# 铃声网站
+notificationsounds.com
+
 # Github
 DOMAIN-SUFFIX,github.io
 
