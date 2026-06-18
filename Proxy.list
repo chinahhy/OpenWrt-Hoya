@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,api.thetvdb.com
 # hermes-agent
 DOMAIN-SUFFIX,nousresearch.com
 
+#claude-code
+DOMAIN-SUFFIX,claude.com
+
 # 其他
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,qichiyu.com
