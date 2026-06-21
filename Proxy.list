@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,nousresearch.com
 #claude-code
 DOMAIN-SUFFIX,claude.com
 
+# 网站设计
+DOMAIN-SUFFIX,pinterest.com
+
 # 其他
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,qichiyu.com
