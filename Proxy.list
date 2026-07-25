@@ -77,7 +77,7 @@ DOMAIN-SUFFIX,vercel-storage.com
 DOMAIN-SUFFIX,element-plus.org
 
 # 铃声网站
-notificationsounds.com
+DOMAIN-SUFFIX,notificationsounds.com
 
 # Github
 DOMAIN-SUFFIX,github.io
