@@ -4,6 +4,10 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,api.thetvdb.com
 
+#anilist
+DOMAIN-SUFFIX,anilist.co
+
+
 # hermes-agent
 DOMAIN-SUFFIX,nousresearch.com
 DOMAIN-SUFFIX,pypi.org
