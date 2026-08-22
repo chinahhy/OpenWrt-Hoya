@@ -85,6 +85,7 @@ DOMAIN-SUFFIX,pp.ua
 
 # moviepilot
 DOMAIN-SUFFIX,movie-pilot.org
+DOMAIN-SUFFIX,trace.moe
 
 # python
 DOMAIN-SUFFIX,pythonhosted.org
