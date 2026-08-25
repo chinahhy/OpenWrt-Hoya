@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,tavily.com
 
+# BitWarden
+DOMAIN-SUFFIX,bitwarden.com
+
 #claude-code
 DOMAIN-SUFFIX,claude.com
 
