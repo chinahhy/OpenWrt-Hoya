@@ -23,6 +23,9 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,81-web.com
 
+# 在线观影
+DOMAIN-SUFFIX,tao18.tv
+
 # 其他
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,qichiyu.com
