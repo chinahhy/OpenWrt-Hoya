@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,api.thetvdb.com
 #anilist
 DOMAIN-SUFFIX,anilist.co
 
+# 音乐格式处理工具
+DOMAIN-SUFFIX,undo.jp
+
 # hermes-agent
 DOMAIN-SUFFIX,nousresearch.com
 DOMAIN-SUFFIX,pypi.org
