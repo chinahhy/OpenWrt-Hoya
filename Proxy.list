@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,anilist.co
 # 音乐格式处理工具
 DOMAIN-SUFFIX,undo.jp
 DOMAIN-SUFFIX,sourceforge.net
+DOMAIN-SUFFIX,freedb.org
 
 # hermes-agent
 DOMAIN-SUFFIX,nousresearch.com
